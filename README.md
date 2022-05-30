@@ -73,7 +73,7 @@ void loop(){
 }
 ```
 
-#ULTRASONIC SENSOR
+# ULTRASONIC SENSOR
 
 ```
 // C++ code
@@ -100,7 +100,7 @@ void loop(){
   delay(1000);
 }
 ```
-#LED
+# LED
 
 ```
 const int LED1=9;
@@ -121,7 +121,7 @@ void loop()
   digitalWrite(LED2,LOW);
 }
 ```
-#PIR SENSOR
+# PIR SENSOR
 
 ```
 // C++ code
@@ -145,7 +145,7 @@ void loop()
   }
 }
 ```
-#led using MIT
+# LED USING MIT
 
 ```
 char inputByte;
