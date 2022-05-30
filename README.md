@@ -75,7 +75,7 @@ void loop(){
   delay(1000);
 }
 ```
-![image](https://user-images.githubusercontent.com/82636710/170915500-16fa9921-a7c5-4c9c-92a6-02efb515b401.png)
+![image](https://user-images.githubusercontent.com/82636710/170916978-073fe456-432a-4e43-a439-5d0738afa9fa.png)
 
 
 # ULTRASONIC SENSOR
