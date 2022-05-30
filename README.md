@@ -48,8 +48,7 @@ void loop()
 }
 
 ```
-![alt text](![image](https://user-images.githubusercontent.com/82636710/170914967-49dd326e-e34f-4627-96df-68c0615a86d8.png)
-)
+![image](https://user-images.githubusercontent.com/82636710/170914967-49dd326e-e34f-4627-96df-68c0615a86d8.png)
 
 
 # TEMPERATURE
@@ -76,6 +75,8 @@ void loop(){
   delay(1000);
 }
 ```
+![image](https://user-images.githubusercontent.com/82636710/170915500-16fa9921-a7c5-4c9c-92a6-02efb515b401.png)
+
 
 # ULTRASONIC SENSOR
 
@@ -104,6 +105,9 @@ void loop(){
   delay(1000);
 }
 ```
+
+![image](https://user-images.githubusercontent.com/82636710/170916307-3ee70007-fa82-48b0-8e58-b70449285b93.png)
+
 # LED
 
 ```
@@ -125,6 +129,9 @@ void loop()
   digitalWrite(LED2,LOW);
 }
 ```
+
+![image](https://user-images.githubusercontent.com/82636710/170915745-8e26bc9e-bc7e-47e6-8fb9-075261dce789.png)
+
 # PIR SENSOR
 
 ```
@@ -149,6 +156,9 @@ void loop()
   }
 }
 ```
+![image](https://user-images.githubusercontent.com/82636710/170915523-665a2580-47b7-4c36-89a2-568f0386ecf3.png)
+
+
 # LED USING MIT
 
 ```
@@ -170,3 +180,4 @@ while(Serial.available()>0){
   }
 }
 ```
+![image](https://user-images.githubusercontent.com/82636710/170915189-4c0f16c7-b8f1-4b09-a706-29e0b16b5ad2.png)
